@@ -1,6 +1,6 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: Baira Skandan Loha
+Name: Bairav Skandan Loha
 
 
 
